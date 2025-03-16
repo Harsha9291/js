@@ -1,4 +1,4 @@
-#🧮 Calculator
+🧮 Calculator
 
 A simple web-based calculator that performs basic arithmetic operations like
  ➕ addition
@@ -6,7 +6,7 @@ A simple web-based calculator that performs basic arithmetic operations like
 ✖️ multiplication,
 ➗ division
 
-##Overview
+Overview
 
 This project is a basic calculator built using 
 HTML🖥️
@@ -14,7 +14,7 @@ CSS🎨
 JavaScript💻
 It provides a user-friendly interface for performing arithmetic calculations. The goal is to offer a lightweight tool that can be easily integrated into any website or used as a standalone application.
 
-# Features
+Features
 
 - ➕ **Addition:** Add two or more numbers.
 - ➖ **Subtraction:** Subtract one number from another.
